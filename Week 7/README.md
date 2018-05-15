@@ -22,7 +22,7 @@ Time spent: **X** hours spent in total
     - Tested in version:4.2
     - Fixed in version: 4.2.15
   - [ ] GIF Walkthrough: https://gph.is/2L2LCE3
-  - [ ] Steps to recreate: I first deleted the login original login button on wordpress. Then I used html code given on the website and pasted that onto the login form so that it looks like a regular login button. Information that are being inputted into that website are then captured by burp and the attacker can use those credentials to login.
+  - [ ] Steps to recreate: I first deleted the original login button on wordpress. Then I used html code given on the website and pasted that onto the login form so that it looks like a regular login button. Information that are being inputted into that website are then captured by burp and the attacker can use those captured credentials to login.
   - [ ] Affected source code: 
   <html>
    <body>
