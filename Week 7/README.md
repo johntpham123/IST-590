@@ -36,15 +36,16 @@ Time spent: **X** hours spent in total
 </html>
     - https://sumofpwn.nl/advisory/2016/cross_site_request_forgery_in_wordpress_connection_information.html
     
-1. (Required) Vulnerability Name or ID
-  - [ ] Summary: 
+1. Fingerprinting
+  - [ ] Summary: This readme file exposes the version number of wordpress being used. This allows the attacker to look for vulnerabilities within that version and exploit it.
     - Vulnerability types: 
-    - Tested in version: 
+    - Tested in version: 4.2
     - Fixed in version: 
-  - [ ] GIF Walkthrough: 
+  - [ ] GIF Walkthrough: https://gph.is/2GoPBY4
   - [ ] Steps to recreate: 
-  - [ ] Affected source code:
+  - [ ] Affected source code: http://wpdistillery.vm/readme.html
     - [Link 1]
+    
 1. (Optional) Vulnerability Name or ID
   - [ ] Summary: 
     - Vulnerability types:
