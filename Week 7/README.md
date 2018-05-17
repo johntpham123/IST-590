@@ -1,6 +1,6 @@
 # Project 7 - WordPress Pentesting
 
-Time spent: **X** hours spent in total
+Time spent: **17** hours spent in total
 
 > Objective: Find, analyze, recreate, and document **five vulnerabilities** affecting an old version of WordPress
 
@@ -14,7 +14,7 @@ Time spent: **X** hours spent in total
   - [ ] GIF Walkthrough: https://gph.is/2Gf2eF0
   - [ ] Steps to recreate: I copied the code from the Kali Linux and added a bunch As to the end of the script to overload the comment. I then pasted the script onto the comment section and the code is executed
   - [ ] Affected source code:<a title='x onmouseover=alert(unescape(/hello%20world/.source)) style=position:absolute;left:0;top:0;width:5000px;height:5000px  AAAAAAAAAAAA...[64 kb]..AAA'></a>
-    - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
+    - https://klikki.fi/adv/wordpress2.html
     
 2. Filesystem Credentials Dialog CSRF
   - [ ] Summary: This attack manipulates the login page and uses a fake login button to lure the user into logging into a malicious website set up by the attacker, stealing their usernames and passwords. 
@@ -38,11 +38,11 @@ Time spent: **X** hours spent in total
     
 1. Fingerprinting
   - [ ] Summary: This readme file exposes the version number of wordpress being used. This allows the attacker to look for vulnerabilities within that version and exploit it.
-    - Vulnerability types: 
+    - Vulnerability types: Fingerprinting or enumeration
     - Tested in version: 4.2
     - Fixed in version: 
   - [ ] GIF Walkthrough: https://gph.is/2GoPBY4
-  - [ ] Steps to recreate: 
+  - [ ] Steps to recreate: You type in /readme.html at the end of the URL and the version wordpress is currently running on is given to the attacker
   - [ ] Affected source code: http://wpdistillery.vm/readme.html
     - [Link 1]
     
