@@ -20,7 +20,8 @@ Vulnerability #1: XSS
 ![xss](https://user-images.githubusercontent.com/37943892/40516603-342178f0-5f66-11e8-95c7-8845184a0439.gif)
 
 
-Vulnerability #2: __________________
+Vulnerability #2: SQL Injection. Blind SQL injection slowing the page down
+![sql injections](https://user-images.githubusercontent.com/37943892/40519412-3a208f26-5f74-11e8-8005-feaf6bf5d117.gif)
 
 
 ## Green
