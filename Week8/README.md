@@ -67,3 +67,4 @@ They would have to be able to hide their scripts somewhere that would be hard fo
 I would send them a forged html link and they would click on it because it looks the same as the actual link.
 
 7) Compare session hijacking and session fixation. Which attack do you think is easier for an attacker to execute? Why? One of them is much easier to defend against than the other. Which one and why? 
+Session hijacking would be easier because you can remote steal their cookies using a remote session. Session fixation is harder because you have to obtain a valid session ID and make the victim use it so you can get access to their session. 
