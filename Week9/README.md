@@ -8,4 +8,6 @@ Milestone 2
 ![milestone 2](https://user-images.githubusercontent.com/37943892/40696266-0396a7d8-637a-11e8-8b4b-a233279ad8d0.PNG)
 
 Milestone 3
-![milestone 3](https://user-images.githubusercontent.com/37943892/40696609-5e4a7974-637b-11e8-8d0b-003c1f898ea4.PNG)
+![milestone 3](https://user-images.githubusercontent.com/37943892/40696749-f2c3d9e2-637b-11e8-8649-aaab0a34d1c4.PNG)
+
+Milestone 4
