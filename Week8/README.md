@@ -2,6 +2,9 @@
 
 Time spent: **17** hours spent in total
 
+Lab 
+
+
 > Objective: Identify vulnerabilities in three different versions of the Globitek website: blue, green, and red.
 
 The six possible exploits are:
