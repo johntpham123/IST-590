@@ -23,7 +23,15 @@ Wget lets you download files from http/https and ftp servers and builds the requ
 curl allows you to build the request as you wish and supports more protocols compared to wget
 wget supports recursive downloading
 curl is more likely to be found on a Linux OS
-Syntax for downloading a file "curl -0 [
+Syntax for downloading a file "curl -0 [url]
+
+SSH and SCP
+Key authentication is harder to crack and stored on your computer. It also doesn't have to be rememberd by the user
+Passwords on the other hand, are easy to forget and crack
+scp /path/to/source-file user@host:/path/to/destination-folder/
+
+Milestone 2
+
 
 Assignments
 Milestone 0
