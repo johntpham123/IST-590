@@ -16,7 +16,8 @@ Only the first 3 hops are the same
 Codepath has 12 hops compared to google with 7
 
 Telnet
-Onet thing that makes telnet insecure is that it send packets in plaintext, which could be easily intercepted by a hacker sniffing the network
+One thing that makes telnet insecure is that it send packets in plaintext, which could be easily intercepted by a hacker sniffing the network
+![telnet](https://user-images.githubusercontent.com/37943892/40814132-4bf4e51a-64f3-11e8-9b5a-f02c27b0f8f0.PNG)
 
 Curl and Wget
 Wget lets you download files from http/https and ftp servers and builds the request automatically
@@ -30,7 +31,23 @@ Key authentication is harder to crack and stored on your computer. It also doesn
 Passwords on the other hand, are easy to forget and crack
 scp /path/to/source-file user@host:/path/to/destination-folder/
 
+Milestone 1
+![nmap](https://user-images.githubusercontent.com/37943892/40814789-4d669c5a-64f7-11e8-854d-98369e723f3c.PNG)
+
 Milestone 2
+Challenge 1
+codepath tcpdump
+![tcpdump](https://user-images.githubusercontent.com/37943892/40815630-9dc650d2-64fc-11e8-9130-c221d76c2bc7.PNG)
+225 requests and most of the content were javacripts and png images
+
+security.codepath.com tcpdump
+![codepath tcp](https://user-images.githubusercontent.com/37943892/40815802-d5946444-64fd-11e8-96b6-71f635dd9575.PNG)
+There are less packets dumped. The difference is that there aren't as many things loaded onto the securit codepath pages as the codepath website
+
+Challenge 2
+![challenge 2](https://user-images.githubusercontent.com/37943892/40815930-c771ecfa-64fe-11e8-98e7-1e687d326f8a.PNG)
+
+Milestone 3
 
 
 Assignments
