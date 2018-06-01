@@ -48,6 +48,16 @@ Challenge 2
 ![challenge 2](https://user-images.githubusercontent.com/37943892/40815930-c771ecfa-64fe-11e8-98e7-1e687d326f8a.PNG)
 
 Milestone 3
+![wireshark](https://user-images.githubusercontent.com/37943892/40817068-3446b35a-6505-11e8-9ef9-ba3a2e6c0ecc.PNG)
+Half the traffic is inbound and half is outbound
+ 
+nslookup
+![wireshark 2](https://user-images.githubusercontent.com/37943892/40817200-ffeba77c-6505-11e8-85a1-c72746c46120.PNG)
+
+ARP
+![wireshark 3](https://user-images.githubusercontent.com/37943892/40817239-379049b2-6506-11e8-9052-fefcfad331c6.PNG)
+
+Milestone 4
 
 
 Assignments
