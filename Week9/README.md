@@ -59,7 +59,22 @@ ARP
 ![wireshark 3](https://user-images.githubusercontent.com/37943892/40817239-379049b2-6506-11e8-9052-fefcfad331c6.PNG)
 
 Milestone 4
+The purpose of checkip.dyndns.org is to check your current IP address
+The 3 jpeg reuqests are from the website with the malware imbedded in the pictures. 
+The malware was embedded in the email attachment that was sent to mike. He opened it up and it was injected into his computer
+ 
+Milestone 5
+executable malware
+![milestone 5](https://user-images.githubusercontent.com/37943892/40881799-69c40bf0-6685-11e8-8535-782164f28747.PNG)
+ 
+Milestone 6
+![milstone 6](https://user-images.githubusercontent.com/37943892/40881576-8cc1c63a-667e-11e8-9e9e-727b27c1e23e.PNG)
 
+Milestone 7 
+![protocol](https://user-images.githubusercontent.com/37943892/40881650-e0e2c87a-6680-11e8-800c-87c8d7c5dbe1.PNG)
+![ssid](https://user-images.githubusercontent.com/37943892/40881658-1557c808-6681-11e8-8939-4123f83ee410.PNG)
+![hash](https://user-images.githubusercontent.com/37943892/40881745-cbfbd138-6683-11e8-9279-457bb33dd766.PNG)
+A nonce is a number generated and used once for session authentication
 
 Assignments
 Milestone 0
