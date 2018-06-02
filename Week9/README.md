@@ -78,4 +78,6 @@ For this milestone I was not able to access the admin console.
 Whenever I would try to install the MHN admin application using the sudo ./install.sh command this would pop up
 ![mhn](https://user-images.githubusercontent.com/37943892/40881339-b9d680e4-6678-11e8-8ff7-519529abf747.PNG)
 I typed in the same username and password I created but it would not let me have access. I've also tried redoing everything on a new computer with a new email and it would prompt the exact same result. It never asked me to choose a new email or password like they're suppose to in milestone 2 but instead asked me to log in right away.
+![mhn](https://user-images.githubusercontent.com/37943892/40881367-951bcec0-6679-11e8-9d61-6ad80b01556e.JPG)
+Because of this I was not able to do milestone 5
 
