@@ -97,3 +97,15 @@ I typed in the same username and password I created but it would not let me have
 ![mhn](https://user-images.githubusercontent.com/37943892/40881367-951bcec0-6679-11e8-9d61-6ad80b01556e.JPG)
 Because of this I was not able to do milestone 5
 
+Concept Review
+1) A packet is a small bit data sent form a source IP to a destination IP
+2) You can find the protocols they're using, IP addresses, and the data being sent 
+3) yes you can make it publicly accessible and invisible using certain configurations
+4) It can give the attacker data about how the traffic is flowing through the network. From here he can find vulnerabilities in the network and launch his attack from there
+5) Information of the vulnerabilities found can be used to patch it up. This will prevent future attacks coming from this vector
+6) Sniffing is analyzing the packets that are going thorugh the network
+7) Special privileges are required to allow tcpdump and wireshark to read packet information
+8) nencrypted wifi network allows hackers to access the network with full view of everything that is going on. Hackers can get into the network easily and embed malware, destroy data, and steal information
+9) SSL(secure socket layer) is a protocol that allows encrypted communication between two networks. TLS(transport layer protocol) is a more updated and secure version of SSL
+
+
