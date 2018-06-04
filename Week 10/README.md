@@ -1,8 +1,13 @@
 Lab
 
+Milestone 0
+![milestone 0](https://user-images.githubusercontent.com/37943892/40882443-ec9b20e8-6696-11e8-8125-7c841b1e5b98.PNG)
+
+Milestone 1
 
 
 Assignment
+
 Challenge 1.0
 ![shodan](https://user-images.githubusercontent.com/37943892/40882194-316926a0-668f-11e8-9f4a-43e9c2cc408d.JPG)
 
