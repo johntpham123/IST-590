@@ -5,6 +5,22 @@ Milestone 0
 
 Milestone 1
 
+Milestone 2
+![capture](https://user-images.githubusercontent.com/37943892/41016630-5866ec2e-6905-11e8-830a-c6e509bde29d.PNG)
+
+Milestone 3
+![fakebook](https://user-images.githubusercontent.com/37943892/41017014-c30ea7a4-6907-11e8-8cdc-5434f6e13598.PNG)
+
+Milestone 5
+![nat](https://user-images.githubusercontent.com/37943892/41017166-88b6101e-6908-11e8-868a-05d2f2311bbb.PNG)
+
+Milestone 6
+Challenge Questions
+1) The vulnerabilities are the tech support and the weak security protocols hackers have to go through. 
+2) The user can back up his/her devices daily so that in case a hack does happen they're able to recover their files.
+3) The user can set up two factor authentication so in case someone is logging on from a different device they're gonna need extra information like the authentication code being sent to your phone. 
+4)  Knowing the username and passowrd gives the attacker other vectors to attack from. The username and password could be used to try and login to other sites that victim might be using. People forget passwords easily so they tend to use one password and username across all their platforms. 
+
 
 Assignment
 
