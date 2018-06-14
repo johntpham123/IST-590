@@ -4,6 +4,7 @@ Milestone 0
 ![milestone 0](https://user-images.githubusercontent.com/37943892/40882443-ec9b20e8-6696-11e8-8125-7c841b1e5b98.PNG)
 
 Milestone 1
+![capture](https://user-images.githubusercontent.com/37943892/41442335-8d7f0e86-6feb-11e8-8b34-a71751b059a8.PNG)
 
 Milestone 2
 ![capture](https://user-images.githubusercontent.com/37943892/41016630-5866ec2e-6905-11e8-830a-c6e509bde29d.PNG)
